@@ -1,9 +1,13 @@
 # OpenGL
 Final Project
 
-https://user-images.githubusercontent.com/34293857/53398465-3cf83a80-39dc-11e9-8e8b-df75890c9518.png
+![image](https://user-images.githubusercontent.com/34293857/53398695-d6275100-39dc-11e9-9b76-081d1e602a26.png)
 
-# Description
+# Instruction
+- Use W, A, S, D to move the object
+- Use Up, Down, Left, Right to rotate the object
+
+# Description of Code
 ## main.cpp:
 - framebuffer_resize_callback(): Resize windows without effecting objects
 - updateInput(): Update Keyboard input
