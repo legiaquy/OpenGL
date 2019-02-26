@@ -1,6 +1,8 @@
 # OpenGL
 Final Project
 
+https://user-images.githubusercontent.com/34293857/53398465-3cf83a80-39dc-11e9-8e8b-df75890c9518.png
+
 # Description
 ## main.cpp:
 - framebuffer_resize_callback(): Resize windows without effecting objects
