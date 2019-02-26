@@ -1,7 +1,11 @@
 # OpenGL
 Final Project
-
 ![image](https://user-images.githubusercontent.com/34293857/53398695-d6275100-39dc-11e9-9b76-081d1e602a26.png)
+
+# Group 6
+- Le Gia Anh Quy USTH-133
+- Tran Thi Thuy Kieu USTH-088
+- Nguyen Ngoc Chien USTH-027
 
 # Instruction
 - Use W, A, S, D to move the object
