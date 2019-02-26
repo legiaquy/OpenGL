@@ -12,13 +12,19 @@ Final Project
 - main(): Output object's movement
 ## fragment_core.glsl :
 - main(): Output object's color/lighting
-## Texture.h:
+## Texture.h: Class
 - Texture(): Texture's Constructor loading image with SOIL2
 - ~Texture(): Texture's Destructor
-## Shader.h:
+## Shader.h: Class
 - Shader()&~Shader(): Constructor & Destructor
 - setVec2,3,4f(), setMat3,4fv(): Set uniform function
 - linkProgram(): link shader to program
 - loadShader(): compile shader
-## Mesh.h:
-- 
+## Mesh.h: Class
+- initVAO(): Generate, bind, send data of VAO, VBO, EBO
+- Mesh() & ~Mesh(): Constructor & Destructor
+- setPosition()/setRotation()/setScale(): Modifiers
+- move()/rotate()/scaleUp()/render(): Functions
+## Primitives: Classes
+- class Primitive: set and get Vertices, Indices
+- class Cube: inherits Primitive, set vertices & indices coordinates of a Cube. 
